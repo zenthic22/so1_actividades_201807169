@@ -1,22 +1,3 @@
-<style>
-    .titleBig {
-        font-family: 'Handlee', cursive;
-        color: #FFE4C4;
-        font-size: 26px;
-    }
-    .text-parr {
-        font-family: 'Handlee', cursive;
-        text-align: justify;
-        font-size: 16px;
-        color: #00FFFF;
-    }
-    .list {
-        font-family: 'Handlee', cursive;
-        text-align: justify;
-        font-size: 16px;
-        color: #00FFFF;
-    }
-</style>
 <center>
     <b><h1 class="titleBig">Tipos de Kernel</h1></b>
 </center>
