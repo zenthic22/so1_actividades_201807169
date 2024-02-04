@@ -80,6 +80,5 @@
 
 <p>
     Para finalizar manipularemos el script para que realice su ejecucion cada 5 minutos.
-
-    --> imagen
 </p>
+<img src="https://github.com/zenthic22/so1_actividades_201807169/blob/main/actividad2/captura.png" />
