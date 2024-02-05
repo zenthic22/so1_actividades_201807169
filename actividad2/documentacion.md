@@ -48,6 +48,8 @@
     echo $msg
 </p>
 
+-->imagen
+
 <p>
     Crearemos un log file para almacenar el mensaje para manipularla mas adelante.
 
