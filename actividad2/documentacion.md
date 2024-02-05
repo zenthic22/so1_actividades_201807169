@@ -48,7 +48,7 @@
     echo $msg
 </p>
 
--->imagen
+<img src="https://github.com/zenthic22/so1_actividades_201807169/blob/main/actividad2/captura_mensaje.png"/>
 
 <p>
     Crearemos un log file para almacenar el mensaje para manipularla mas adelante.
